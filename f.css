@@ -1,0 +1,75 @@
+header{
+    background-color: whitesmoke;
+    height: 20vh;
+}
+
+
+
+span{
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.logo{
+    border: solid black;
+    border-radius: 30px;
+    width: fit-content;
+    background-color: black;
+    color: white;
+ 
+}
+logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.nav {
+      
+        overflow: hidden; 
+    }
+
+.nav ul {
+            text-align: center;
+            padding: 0;
+            margin: 18px;
+            list-style-type: none;
+        }
+
+.nav ul li {
+            display: block;
+            margin: 5px;
+        }
+
+   .nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 13px;
+   }
+
+    .nav a:hover {
+     color: green; 
+    }
+    
+    img{
+        margin-left: 25px;
+        float: left;
+        width: 300px;
+        height: 300px;
+    }
+
+    h3{
+        font-size: 45px;
+        text-align: center;
+        color: black;
+    }
